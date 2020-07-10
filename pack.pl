@@ -1,8 +1,8 @@
 author('Milan Unger', 'milan.kvetko@gmail.com').
-download('https://github.com/milung/prolog-sax.git/releases/*.zip').
-home('https://github.com/milung/prolog-sax').
+download('https://github.com/milung/prolog_sax.git').
+home('https://github.com/milung/prolog_sax').
 maintainer('Milan Unger', 'milan.kvetko@gmail.com').
-name(sax).
+name(prolog_sax).
 packager('Milan Unger', 'milan.kvetko@gmail.com').
 title('Prolog SAX Library').
 version('1.0.0').
