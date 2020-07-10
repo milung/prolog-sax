@@ -5,4 +5,4 @@ maintainer('Milan Unger', 'milan.kvetko@gmail.com').
 name(prolog_sax).
 packager('Milan Unger', 'milan.kvetko@gmail.com').
 title('Prolog SAX Library').
-version('1.0.0').
+version('1.0.3').
